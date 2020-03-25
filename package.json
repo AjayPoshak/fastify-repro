@@ -1,0 +1,17 @@
+{
+  "name": "fastify-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "^2.13.0",
+    "fastify-url-data": "^2.4.0",
+    "pino-pretty": "^3.6.1"
+  }
+}
